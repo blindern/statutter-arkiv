@@ -1,0 +1,4 @@
+Options +Indexes
+IndexOptions Charset=UTF-8
+AddCharset ISO-8859-1 .html
+AddDefaultCharset ISO-8859-1
